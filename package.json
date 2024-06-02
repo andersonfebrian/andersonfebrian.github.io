@@ -1,9 +1,9 @@
 {
   "name": "personal-website",
   "version": "1.0.0",
-  "source": "index.html",
+  "source": "src/index.html",
   "scripts": {
-"serve":"parcel serve",
+    "serve": "parcel serve",
     "build": "parcel build"
   },
   "keywords": [],
